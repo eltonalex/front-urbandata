@@ -8,7 +8,7 @@
 		<img src="vendor/images/error-bg.jpg" alt="" class="bg_img">
 		<div class="pd-10">
 			<div class="error-page-wrap text-center color-white">
-				<h1 class="color-white weight-500">Error: 404 Page Not Found</h1>
+				<h1 class="color-white weight-500">Error: 404 Page Not Found!</h1>
 				<img src="vendor/images/404.png" alt="">
 				<p>Sorry, the page you’re looking for cannot be accessed.<br>Either check the URL, <a href="index.php">go home</a>.</p>
 			</div>
